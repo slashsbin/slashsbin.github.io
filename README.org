@@ -24,5 +24,10 @@ npm run build
 npm run preview
 #+END_SRC
 
+** Upgrade
+#+BEGIN_SRC shell
+npx nuxi upgrade
+#+END_SRC
+
 ** License
 The code is licensed under the [[https://slashsbin.mit-license.org/][MIT License]].
