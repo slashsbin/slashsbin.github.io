@@ -18,13 +18,13 @@
             </header>
             <footer>
                 <blockquote>
-                    ------------------------------------------------------------------------------------------------------------------------
+                    ----------------------------------------------------------------------------------------------------
                     <br>
                     "All things change in a dynamic environment. Your effort to remain what you are is what limits you."
                     <br>
                     <i>~ Puppet Master, Ghost in the Shell (1995)</i>
                     <br>
-                    ------------------------------------------------------------------------------------------------------------------------
+                    ----------------------------------------------------------------------------------------------------
                 </blockquote>
                 <section>
                     <a target="_blank" href="https://github.com/slashsbin">[git]</a>
@@ -42,7 +42,7 @@
         --secondary-color: #a277ff;
         --background-color: #15141b;
     }
-    
+
     body {
         margin: 0;
 
@@ -92,4 +92,3 @@ definePageMeta({
     title: '/sβin'
 });
 </script>
-
