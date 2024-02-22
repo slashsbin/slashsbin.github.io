@@ -8,7 +8,7 @@ export default defineNuxtConfig({
         [
             'nuxt-cloudflare-analytics',
             {
-                token: '${CF_ANALYTICS_TOKEN}',
+                token: process.env.CF_ANALYTICS_TOKEN,
             },
         ],
     ]
