@@ -3,17 +3,17 @@
         <Teleport to="body">
             <header>
                 <pre>
- .----------------.            ,,..    ,,              
-| .--------------. |         ,MF'``A.  db              
-| |        __    | |         6M   .M'                  
-| |       / /    | | ,pP"Ybd MM mmb. `7MM  `7MMpMMMb.  
-| |      / /     | | 8I   `" MM    Yb  MM    MM    MM  
-| |     / /      | | `YMMMa. MM    b8  MM    MM    MM  
-| |    / /       | | L.   I8 MM.   p9  MM    MM    MM  
+ .----------------.            ,,..    ,,
+| .--------------. |         ,MF'``A.  db
+| |        __    | |         6M   .M'
+| |       / /    | | ,pP"Ybd MM mmb. `7MM  `7MMpMMMb.
+| |      / /     | | 8I   `" MM    Yb  MM    MM    MM
+| |     / /      | | `YMMMa. MM    b8  MM    MM    MM
+| |    / /       | | L.   I8 MM.   p9  MM    MM    MM
 | |   /_/        | | M9mmmP' MM`bmd9'.JMML..JMML  JMML.
-| |              | |         MM                        
-| '--------------' |         MM                        
- '----------------'  
+| |              | |         MM
+| '--------------' |         MM
+ '----------------'
                 </pre>
             </header>
             <footer>
@@ -86,9 +86,3 @@
         color: var(--primay-color);
     }
 </style>
-
-<script setup lang="ts">
-definePageMeta({
-    title: '/sβin'
-});
-</script>

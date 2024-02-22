@@ -3,10 +3,13 @@
 </template>
 
 <script setup lang="ts">
-const route = useRoute();
+    const appConfig = useAppConfig();
 
-useHead({
-    title: () => route.meta.title
-});
+    useHead({
+        titleTemplate: (title?: string) => title ? `${appConfig.title}/${title}` : appConfig.title,
+    });
+
+    useSeoMeta({
+        description: `${ appConfig.author.name } personal website`,
+    });
 </script>
-
