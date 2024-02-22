@@ -2,13 +2,12 @@
 export default defineNuxtConfig({
     devtools: { enabled: true },
     telemetry: false,
-    runtimeConfig: {
-        cfAnalyticsToken: '',
-    },
     modules: [
-        'nuxt-cloudflare-analytics',
+        [
+            'nuxt-cloudflare-analytics',
+            {
+                token: '07684a2c00274afeac7127bec28c3e3d',
+            },
+        ]
     ],
-    cloudflareAnalytics: {
-        token: '${{ NUXT_CF_ANALYTICS_TOKEN }}',
-    }
 })
