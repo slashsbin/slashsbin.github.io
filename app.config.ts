@@ -10,8 +10,4 @@ export default defineAppConfig({
     theme: {
         color: '#a277ff',
     },
-    site: {
-        name: '/sβin.dev',
-        url: 'https://slashsbin.dev'
-    },
 })

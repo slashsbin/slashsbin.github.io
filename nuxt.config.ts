@@ -11,6 +11,10 @@ export default defineNuxtConfig({
         ],
         '@nuxtjs/seo',
     ],
+    site: {
+        name: '/sβin.dev',
+        url: 'https://slashsbin.dev'
+    },
     robots: {
         credits: false,
     },
