@@ -22,6 +22,7 @@ jobs:
       - run: npm run build
         env:
           NITRO_PRESET: github_pages
+          NUXT_CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
