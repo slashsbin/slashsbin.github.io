@@ -2,14 +2,14 @@
 export default defineNuxtConfig({
     devtools: { enabled: true },
     runtimeConfig: {
-        cfAnalyticsToken: ''
+        cfAnalyticsToken: '',
+        cloudflareAnalytics: {
+            token: process.env.CF_ANALYTICS_TOKEN,
+        }
     },
     modules: [
         [
             'nuxt-cloudflare-analytics',
-            {
-                token: process.env.CF_ANALYTICS_TOKEN,
-            },
         ],
     ]
 })
