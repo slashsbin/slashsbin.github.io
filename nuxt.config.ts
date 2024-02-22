@@ -8,6 +8,14 @@ export default defineNuxtConfig({
             {
                 token: '07684a2c00274afeac7127bec28c3e3d',
             },
-        ]
+        ],
+        '@nuxtjs/seo',
     ],
+    robots: {
+        credits: false,
+    },
+    sitemap: {
+        autoLastmod: true,
+        credits: false,
+    },
 })
