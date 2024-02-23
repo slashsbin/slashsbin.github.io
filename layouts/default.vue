@@ -44,13 +44,6 @@
 
     useHead({
         titleTemplate: (title?: string) => title ? `${appConfig.title}/${title}` : appConfig.title,
-        link: [
-            {
-                rel: 'icon',
-                type: 'image/png',
-                href: '/icon.png'
-            }
-        ],
     });
 
     useSeoMeta({
