@@ -3,7 +3,27 @@
 </template>
 
 <style>
-    @import url("~/assets/css/main.css");
+    :root {
+        --primay-color: #f694ff;
+        --secondary-color: #a277ff;
+        --background-color: #15141b;
+    }
+
+    body {
+        margin: 0;
+        font-family: monospace;
+        font-size: large;
+        background: var(--background-color);
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        -webkit-text-fill-color: initial;
+        color: var(--primay-color);
+    }
 </style>
 
 <script setup lang="ts">
