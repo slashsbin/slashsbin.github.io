@@ -36,25 +36,13 @@
     </div>
 </template>
 
-<style>
-    :root {
-        --primay-color: #f694ff;
-        --secondary-color: #a277ff;
-        --background-color: #15141b;
-    }
-
+<style scoped>
     body {
-        margin: 0;
-
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         height: 100vh;
-
-        font-family: monospace;
-        font-size: large;
-        background: var(--background-color);
     }
 
     header {
@@ -75,14 +63,5 @@
 
     section {
         text-align: center;
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    a:hover {
-        -webkit-text-fill-color: initial;
-        color: var(--primay-color);
     }
 </style>

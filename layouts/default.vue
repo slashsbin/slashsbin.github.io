@@ -2,17 +2,17 @@
     <slot />
 </template>
 
+<style>
+    @import url("~/assets/css/main.css");
+</style>
+
 <script setup lang="ts">
     const appConfig = useAppConfig();
 
     useHead({
         meta: [
             {
-                http-equiv: 'content-security-policy',
-                content: "default-src 'self'; script-src 'self' https://cloudflareinsights.com; child-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
-            },
-            {
-                http-equiv: 'referrer-policy',
+                'http-equiv': 'referrer-policy',
                 content: 'strict-origin-when-cross-origin',
             },
         ],
