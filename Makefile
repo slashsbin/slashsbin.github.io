@@ -43,8 +43,8 @@ help:  ## Display this help
 -include .make/*.mk
 
 ##@ [App]
-.PHONY: setup
-setup: _section ## Setup
+.PHONY: install
+install: _section ## Install
 	npm install
 
 .PHONY: dev
