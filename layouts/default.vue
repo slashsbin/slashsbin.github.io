@@ -9,7 +9,7 @@
         meta: [
             {
                 http-equiv: 'content-security-policy',
-                content: 'default-src 'self'; script-src 'self' https://cloudflareinsights.com; child-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'',
+                content: "default-src 'self'; script-src 'self' https://cloudflareinsights.com; child-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
             },
             {
                 http-equiv: 'referrer-policy',
