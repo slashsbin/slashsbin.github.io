@@ -4,30 +4,8 @@
 * /sβin
 #!/sBin/cyberRoze.md
 
-** Setup
-#+BEGIN_SRC shell
-npm install
-#+END_SRC
-
-** Dev Server
-#+BEGIN_SRC shell
-npm run dev -- -o
-#+END_SRC
-
-** Prod Build
-#+BEGIN_SRC shell
-npm run build
-#+END_SRC
-
-** Prod Preview
-#+BEGIN_SRC shell
-npm run preview
-#+END_SRC
-
-** Upgrade
-#+BEGIN_SRC shell
-npx nuxi upgrade
-#+END_SRC
+** Info
+slashsbin Personal website.
 
 ** License
 The code is licensed under the [[https://slashsbin.mit-license.org/][MIT License]].
