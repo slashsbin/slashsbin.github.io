@@ -29,6 +29,7 @@
 <script setup lang="ts">
     const appConfig = useAppConfig();
 
+    // Security Headers
     useHead({
         meta: [
             {
@@ -42,10 +43,12 @@
         ],
     });
 
+    // General
     useHead({
         titleTemplate: (title?: string) => title ? `${appConfig.title}/${title}` : appConfig.title,
     });
 
+    // SEO
     useSeoMeta({
         description: `${ appConfig.author.name } personal website`,
         colorScheme: 'dark',
@@ -74,4 +77,14 @@
             ],
         }),
     ]);
+
+    // Etc, Metadata
+    useHead({
+        link: [
+            { rel: 'me', href: 'https://github.com/slashsbin' },
+            { rel: 'me', href: 'https://twitter.com/slashsbin' },
+            { rel: 'me', href: 'https://mastodon.social/@slashsbin' },
+            { rel: 'me', href: 'https://www.linkedin.com/in/slashsbin' },
+        ],
+    });
 </script>
