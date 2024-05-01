@@ -1,6 +1,12 @@
 #+TITLE: /sBin
 #+AUTHOR: slashsbin
 
+[[https://slashsbin.dev][https://img.shields.io/website?url=https%3A%2F%2Fslashsbin.dev.svg]]
+[[https://nuxt.com/][https://img.shields.io/github/package-json/dependency-version/slashsbin/slashsbin.github.io/dev/nuxt.svg]]
+[[https://github.com/slashsbin/slashsbin.github.io/actions][https://img.shields.io/github/actions/workflow/status/slashsbin/slashsbin.github.io/deploy.yml.svg]]
+[[https://hstspreload.org/?domain=slashsbin.dev][https://img.shields.io/hsts/preload/slashsbin.dev.svg]]
+[[https://observatory.mozilla.org/analyze/slashsbin.dev][https://img.shields.io/mozilla-observatory/grade-score/slashsbin.dev.svg]]
+
 * /sβin
 #!/sBin/cyberRoze.md
 
