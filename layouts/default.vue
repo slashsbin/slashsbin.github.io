@@ -4,8 +4,8 @@
 
 <style>
     :root {
-        --primay-color: #f694ff;
-        --secondary-color: #a277ff;
+        --primay-color: #fe28a2; /* Persian Rose */
+        --secondary-color: #00A693; /* Persian Green */
         --background-color: #15141b;
     }
 
