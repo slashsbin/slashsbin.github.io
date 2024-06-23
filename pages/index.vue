@@ -28,7 +28,7 @@
                 </blockquote>
                 <section>
                     <a target="_blank" href="https://github.com/slashsbin">[git]</a>
-                    <a target="_blank" href="https://twitter.com/slashsbin">[twt]</a>
+                    <a target="_blank" href="https://x.com/slashsbin">[twt]</a>
                     <a target="_blank" href="/slashsbin.asc">[gpg]</a>
                 </section>
             </footer>
