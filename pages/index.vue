@@ -27,9 +27,9 @@
                     ----------------------------------------------------------------------------------------------------
                 </blockquote>
                 <section>
-                    <a target="_blank" href="https://github.com/slashsbin">[git]</a>
-                    <a target="_blank" href="https://x.com/slashsbin">[twt]</a>
-                    <a target="_blank" href="/slashsbin.asc">[gpg]</a>
+                    <a target="_blank" href="https://github.com/slashsbin">[<Leetify text="git" />]</a>
+                    <a target="_blank" href="https://x.com/slashsbin">[<Leetify text="twt" />]</a>
+                    <a target="_blank" href="/slashsbin.asc">[<Leetify text="gpg" />]</a>
                 </section>
             </footer>
         </Teleport>
