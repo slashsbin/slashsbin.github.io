@@ -73,7 +73,7 @@
             image: appConfig.author.image,
             sameAs: [
                 'https://github.com/slashsbin',
-                'https://twitter.com/slashsbin',
+                'https://x.com/slashsbin',
             ],
         }),
     ]);
@@ -82,7 +82,7 @@
     useHead({
         link: [
             { rel: 'me', href: 'https://github.com/slashsbin' },
-            { rel: 'me', href: 'https://twitter.com/slashsbin' },
+            { rel: 'me', href: 'https://x.com/slashsbin' },
             { rel: 'me', href: 'https://mastodon.social/@slashsbin' },
             { rel: 'me', href: 'https://www.linkedin.com/in/slashsbin' },
         ],
