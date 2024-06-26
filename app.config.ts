@@ -8,6 +8,6 @@ export default defineAppConfig({
         image: '/me.png',
     },
     theme: {
-        color: '#a277ff',
+        color: '#00a693',
     },
 })

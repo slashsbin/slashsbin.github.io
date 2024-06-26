@@ -5,7 +5,7 @@
 <style>
     :root {
         --primay-color: #fe28a2; /* Persian Rose */
-        --secondary-color: #00A693; /* Persian Green */
+        --secondary-color: #00a693; /* Persian Green */
         --background-color: #15141b;
     }
 
