@@ -10,6 +10,7 @@ export default defineNuxtConfig({
             },
         ],
         '@nuxtjs/seo',
+        "@nuxtjs/tailwindcss",
     ],
     site: {
         name: '/sβin.dev',
