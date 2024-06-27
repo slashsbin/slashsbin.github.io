@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-mono bg-gray-900;
+    }
+
+    pre {
+        @apply tracking-normal leading-tight;
+    }
+
+    a:hover {
+        color: theme('colors.persian-rose');
+    }
+}
