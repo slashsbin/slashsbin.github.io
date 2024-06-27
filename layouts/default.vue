@@ -1,30 +1,8 @@
 <template>
-    <slot />
+    <div>
+        <slot />
+    </div>
 </template>
-
-<style>
-    :root {
-        --primay-color: #fe28a2; /* Persian Rose */
-        --secondary-color: #00a693; /* Persian Green */
-        --background-color: #15141b;
-    }
-
-    body {
-        margin: 0;
-        font-family: monospace;
-        font-size: large;
-        background: var(--background-color);
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    a:hover {
-        -webkit-text-fill-color: initial;
-        color: var(--primay-color);
-    }
-</style>
 
 <script setup lang="ts">
     const appConfig = useAppConfig();
