@@ -4,11 +4,11 @@
 
 @layer base {
     body {
-        @apply font-mono bg-gray-900;
+        @apply font-mono text-base bg-gray-900 slashed-zero;
     }
 
     pre {
-        @apply tracking-normal leading-tight;
+        @apply text-[0.625rem]/tight sm:text-xs/tight lg:text-sm/tight tracking-normal;
     }
 
     a:hover {
