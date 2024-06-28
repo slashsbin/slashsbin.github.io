@@ -4,15 +4,15 @@
 
 @layer base {
     body {
-        @apply font-mono text-base bg-gray-900 slashed-zero;
+        @apply font-mono text-base bg-gray-900 slashed-zero selection:bg-persian-green selection:text-gray-900;
     }
 
     pre {
-        @apply text-[0.625rem]/tight sm:text-xs/tight lg:text-sm/tight tracking-normal;
+        @apply text-[0.625rem]/tight sm:text-xs/tight lg:text-sm/tight tracking-normal select-none;
     }
 
     a:hover {
-        color: theme('colors.persian-rose');
+        @apply text-persian-rose cursor-none;
     }
 }
 

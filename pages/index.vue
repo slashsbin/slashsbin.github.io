@@ -20,9 +20,9 @@
         </blockquote>
         <p class="text-center line-clamp-1">-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-</p>
         <section class="text-center">
-            <a target="_blank" href="https://github.com/slashsbin">[<Leetify text="git" />]</a>
-            <a target="_blank" href="https://x.com/slashsbin">[<Leetify text="twt" />]</a>
-            <a target="_blank" href="/slashsbin.asc">[<Leetify text="gpg" />]</a>
+            <a target="_blank" href="https://github.com/slashsbin"><Leetify text="[git]" /></a>
+            <a target="_blank" href="https://x.com/slashsbin"><Leetify text="[twt]" /></a>
+            <a target="_blank" href="/slashsbin.asc"><Leetify text="[gpg]" /></a>
         </section>
     </footer>
 </template>
