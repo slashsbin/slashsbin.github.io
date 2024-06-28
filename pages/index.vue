@@ -13,15 +13,12 @@
  '----------------'</pre>
     </header>
     <footer class="text-transparent bg-clip-text bg-gradient-to-b from-persian-rose to-persian-green">
+        <p class="text-center">-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-</p>
         <blockquote class="text-right">
-            ----------------------------------------------------------------------------------------------------
-            <br>
-            "All things change in a dynamic environment. Your effort to remain what you are is what limits you."
-            <br>
-            <i>~ Puppet Master, Ghost in the Shell (1995)</i>
-            <br>
-            ----------------------------------------------------------------------------------------------------
+            "All things change in a dynamic environment. <wbr>Your effort to remain what you are is what limits you."
+            <footer>~ Puppet Master, <cite>Ghost in the Shell (1995)</cite></footer>
         </blockquote>
+        <p class="text-center">-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-</p>
         <section class="text-center">
             <a target="_blank" href="https://github.com/slashsbin">[<Leetify text="git" />]</a>
             <a target="_blank" href="https://x.com/slashsbin">[<Leetify text="twt" />]</a>

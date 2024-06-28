@@ -1,7 +1,7 @@
 <template>
     <div class="pancake-stack h-screen">
         <Header />
-        <div class="gentle-flex">
+        <div class="gentle-flex container mx-auto">
             <slot />
         </div>
         <Footer />
