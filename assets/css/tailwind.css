@@ -15,3 +15,14 @@
         color: theme('colors.persian-rose');
     }
 }
+
+@layer components {
+    .pancake-stack {
+        @apply grid;
+        grid-template-rows: auto 1fr auto;
+    }
+
+    .gentle-flex {
+        @apply flex flex-col items-center justify-center;
+    }
+}

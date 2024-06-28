@@ -1,6 +1,10 @@
 <template>
-    <div>
-        <slot />
+    <div class="pancake-stack h-screen">
+        <Header />
+        <div class="gentle-flex">
+            <slot />
+        </div>
+        <Footer />
     </div>
 </template>
 
