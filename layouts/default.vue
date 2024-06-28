@@ -12,18 +12,20 @@
     const appConfig = useAppConfig();
 
     // Security Headers
-    useHead({
-        meta: [
-            {
-                'http-equiv': 'content-security-policy',
-                content: import.meta.dev ? "*" : "default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self' https://cloudflareinsights.com; child-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'",
-            },
-            {
-                'http-equiv': 'referrer-policy',
-                content: 'strict-origin-when-cross-origin',
-            },
-        ],
-    });
+    if (!import.meta.dev) {
+        useHead({
+            meta: [
+                {
+                    'http-equiv': 'content-security-policy',
+                    content: "default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self' https://cloudflareinsights.com; child-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'",
+                },
+                {
+                    'http-equiv': 'referrer-policy',
+                    content: 'strict-origin-when-cross-origin',
+                },
+            ],
+        });
+    }
 
     // General
     useHead({
