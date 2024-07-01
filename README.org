@@ -12,7 +12,7 @@
 #!/sBin/cyberRoze.md
 
 ** Info
-slashsbin Personal website.
+slashsbin's Personal website.
 
 ** License
 The code is licensed under the [[https://slashsbin.mit-license.org/][MIT License]].

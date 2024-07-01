@@ -34,7 +34,7 @@
 
     // SEO
     useSeoMeta({
-        description: `${ appConfig.author.name } personal website`,
+        description: `${ appConfig.author.name }'s personal website`,
         colorScheme: 'dark',
         author: appConfig.author.name,
         profileUsername: appConfig.author.username,
