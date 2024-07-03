@@ -10,7 +10,13 @@ export default defineNuxtConfig({
             },
         ],
         '@nuxtjs/seo',
-        "@nuxtjs/tailwindcss",
+        '@nuxtjs/tailwindcss',
+        [
+            'nuxt-gtag',
+            {
+                id: 'G-1WY2RCYLML'
+            }
+        ],
     ],
     site: {
         name: '/sβin.dev',
