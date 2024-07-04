@@ -1,3 +1,5 @@
+<template><div></div></template>
+
 <script setup lang="ts">
     import { _colors } from '#tailwind-config/theme';
 

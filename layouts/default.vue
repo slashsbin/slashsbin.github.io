@@ -2,6 +2,7 @@
     <div class="pancake-stack h-screen">
         <Header />
         <div class="gentle-flex container mx-auto">
+            <Codify /><CyberRoze />
             <slot />
         </div>
         <Footer />

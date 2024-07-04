@@ -1,3 +1,5 @@
+<template><div></div></template>
+
 <script setup lang="ts">
     useHead({
         bodyAttrs: {
@@ -8,7 +10,7 @@
 </script>
 
 <style>
-    /* #\!cyberRoze\.md {} */
+    #\!cyberRoze\.md {}
 
     pre {
         @apply group-target/cyberRoze:font-black;
