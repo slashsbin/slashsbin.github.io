@@ -5,7 +5,7 @@
 [[https://nuxt.com/][https://img.shields.io/github/package-json/dependency-version/slashsbin/slashsbin.github.io/dev/nuxt.svg]]
 [[https://github.com/slashsbin/slashsbin.github.io/actions][https://img.shields.io/github/actions/workflow/status/slashsbin/slashsbin.github.io/deploy.yml.svg]]
 [[https://hstspreload.org/?domain=slashsbin.dev][https://img.shields.io/hsts/preload/slashsbin.dev.svg]]
-[[https://observatory.mozilla.org/analyze/slashsbin.dev][https://img.shields.io/mozilla-observatory/grade-score/slashsbin.dev.svg]]
+[[https://developer.mozilla.org/en-US/observatory/analyze?host=slashsbin.dev][https://img.shields.io/mozilla-observatory/grade-score/slashsbin.dev.svg]]
 [[https://img.shields.io/badge/Made%20With-%F0%9F%92%94-dimgray.svg]]
 
 * /sβin
