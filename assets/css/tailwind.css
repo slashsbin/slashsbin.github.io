@@ -17,7 +17,9 @@
 
     a:hover {
         @apply text-persian-rose cursor-crosshair;
-        text-shadow: 0 0 64px theme(colors.gray.600 / 40%), 0 0 32px theme(colors.persian-rose);
+        text-shadow:
+            0 0 64px theme(colors.gray.600 / 40%),
+            0 0 32px theme(colors.persian-rose);
     }
 }
 

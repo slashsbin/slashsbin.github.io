@@ -4,6 +4,9 @@ export default <Partial<Config>>{
     theme: {
         extend: {
             colors: {
+                // slashsbin
+                nova: '#40a0ff',
+
                 // Persian colors
                 'persian-blue': '#1c39bb',
                 'persian-sky': '#0067a5',
