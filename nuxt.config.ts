@@ -3,14 +3,23 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     telemetry: false,
     modules: [
+        // Cloudflare Analytics
         [
             'nuxt-cloudflare-analytics',
             {
                 token: '07684a2c00274afeac7127bec28c3e3d',
-            },
+            }
         ],
+        // SEO
         '@nuxtjs/seo',
-        '@nuxtjs/tailwindcss',
+        // TailwindCSS
+        [
+            '@nuxtjs/tailwindcss',
+            {
+                exposeConfig: true,
+            }
+        ],
+        // G Analytics
         [
             'nuxt-gtag',
             {

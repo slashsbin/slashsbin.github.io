@@ -1,5 +1,6 @@
 export default defineNitroPlugin((nitroApp) => {
     nitroApp.hooks.hook('render:html', (html, { event }) => {
+        // Banner
         html.head.unshift(`<!--
 
    .----------------.            ,,..    ,,
@@ -21,6 +22,7 @@ export default defineNitroPlugin((nitroApp) => {
 
 -->`);
 
+        // Binary version of .::{ thatWhichFeedsMeDestroysMe }::.
         html.bodyAppend.push(`<!--
 
 00101110 00111010 00111010 01111011 00100000 01110100 01101000 01100001 01110100 01010111 01101000 01101001 01100011 01101000 01000110 01100101 01100101 01100100 01110011 01001101 01100101 01000100 01100101 01110011 01110100 01110010 01101111 01111001 01110011 01001101 01100101 00100000 01111101 00111010 00111010 00101110
