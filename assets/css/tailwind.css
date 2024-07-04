@@ -11,6 +11,10 @@
         @apply text-[0.625rem]/tight sm:text-xs/tight lg:text-sm/tight tracking-normal select-none;
     }
 
+    a {
+        @apply text-persian-green;
+    }
+
     a:hover {
         @apply text-persian-rose cursor-crosshair;
         text-shadow: 0 0 64px theme(colors.gray.600 / 40%), 0 0 32px theme(colors.persian-rose);
