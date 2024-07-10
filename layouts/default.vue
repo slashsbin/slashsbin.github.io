@@ -1,5 +1,5 @@
 <template>
-    <div class="pancake-stack h-screen">
+    <div class="pancake-stack h-dvh">
         <Header />
         <div class="gentle-flex container mx-auto">
             <Codify /><CyberRoze />
