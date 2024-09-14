@@ -22,7 +22,7 @@
         <section class="text-center">
             <a target="_blank" href="https://github.com/slashsbin" class="text-transparent"><Leetify text="[git]" /></a>
             <a target="_blank" href="https://x.com/slashsbin" class="text-transparent"><Leetify text="[twt]" /></a>
-            <a target="_blank" href="/slashsbin.asc" class="text-transparent"><Leetify text="[gpg]" /></a>
+            <a target="_blank" href="https://keys.openpgp.org/vks/v1/by-fingerprint/CEB060482EF34E64F50CB3AB7229717C1A66BF4A" class="text-transparent"><Leetify text="[gpg]" /></a>
         </section>
     </footer>
 </template>
