@@ -21,13 +21,6 @@ export default defineNuxtConfig({
               exposeConfig: true,
           }
       ],
-      // G Analytics
-      [
-          'nuxt-gtag',
-          {
-              id: 'G-1WY2RCYLML'
-          }
-      ],
   ],
 
   site: {
