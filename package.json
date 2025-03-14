@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@nuxtjs/seo": "^2.0.0-rc.8",
+    "@nuxtjs/seo": "^2.0.0",
     "@nuxtjs/tailwindcss": "^6.12.0",
     "nuxt": "^3.16.0",
     "nuxt-gtag": "^2.0.6",
