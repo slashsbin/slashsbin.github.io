@@ -13,7 +13,7 @@
     "@nuxt/devtools": "latest",
     "@nuxtjs/seo": "^3.0.1",
     "@nuxtjs/tailwindcss": "^6.12.0",
-    "nuxt": "^3.16.1",
+    "nuxt": "^3.17.0",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
   },
