@@ -20,8 +20,9 @@
         </blockquote>
         <p class="text-center line-clamp-1">-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-<wbr>-</p>
         <section class="text-center">
-            <a target="_blank" href="https://github.com/slashsbin" class="text-transparent"><Leetify text="[git]" /></a>
+            <a target="_blank" href="mailto:slashsbin@proton.me" class="text-transparent"><Leetify text="[email]" /></a>
             <a target="_blank" href="https://mail-api.proton.me/pks/lookup?op=get&search=slashsbin@proton.me" class="text-transparent"><Leetify text="[gpg]" /></a>
+            <a target="_blank" href="https://github.com/slashsbin" class="text-transparent"><Leetify text="[git]" /></a>
         </section>
     </footer>
 </template>
