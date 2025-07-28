@@ -54,7 +54,6 @@
         definePerson({
             name: appConfig.author.name,
             additionalName: appConfig.author.username,
-            alternateName: appConfig.author.altName,
             image: appConfig.author.image,
             sameAs: [
                 'https://github.com/slashsbin',
