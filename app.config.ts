@@ -1,7 +1,7 @@
 export default defineAppConfig({
     title: '/sβin',
     author: {
-        name: 'Mohammad Shokri Khanghah',
+        name: 'Mohammad Shokri Khanqah',
         email: 'slashsbin@proton.me',
         username: 'slashsbin',
         image: '/me.png',
