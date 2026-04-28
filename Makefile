@@ -5,7 +5,7 @@ SHELL := bash
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 COLUMNS ?= `tput cols`
-CORES ?= $(shell (nproc  || sysctl -n hw.ncpu) 2> /dev/null)
+CORES ?= $(shell (nproc || sysctl -n hw.ncpu) 2> /dev/null)
 MAKE_CMD := ${MAKE} --jobs ${CORES} -k --no-print-directory
 
 MSG := $(MAKECMDGOALS)
