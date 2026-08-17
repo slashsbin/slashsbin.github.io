@@ -51,7 +51,6 @@
     useSchemaOrg([
         definePerson({
             name: appConfig.author.name,
-            alternateName: appConfig.author.altName,
             additionalName: appConfig.author.username,
             image: appConfig.author.image,
             jobTitle: appConfig.author.jobTitle,

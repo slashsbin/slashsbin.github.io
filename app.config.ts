@@ -2,8 +2,7 @@ export default defineAppConfig({
     title: '/sβin',
     url: 'https://slashsbin.dev',
     author: {
-        name: 'Mohammad Shokri Khanqah',
-        altName: 'Mohammad Šokri Ǩânqâh',
+        name: 'Mohammad Khanghah',
         email: 'slashsbin@proton.me',
         username: 'slashsbin',
         image: '/me.png',

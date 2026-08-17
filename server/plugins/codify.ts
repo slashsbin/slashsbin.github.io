@@ -16,7 +16,7 @@ export default defineNitroPlugin((nitroApp) => {
   '----------------'
 
   /sBin.dev/#!cyberRoze.md
-  Mohammad Shokri Khanqah's personal website
+  Mohammad Khanghah's personal website
 
   cat /dev/infinity/mysteries | /sBin/cyberRoze.md -0 > /dev/null 2>&1
 
